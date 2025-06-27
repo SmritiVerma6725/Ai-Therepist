@@ -39,7 +39,8 @@ QA Chain: A RetrievalQA chain combines retrieval and generation with a custom pr
 
 Project Structure
 text
-AI-Therapist/
+AI-Therapist
+
 ├── Data/                   # PDF documents for knowledge base
 
 ├── main.py                 # Main chatbot script
