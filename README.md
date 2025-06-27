@@ -40,11 +40,17 @@ Project Structure
 text
 AI-Therapist/
 ├── Data/                   # PDF documents for knowledge base
+
 ├── main.py                 # Main chatbot script
+
 ├── requirements.txt        # Python dependencies
-├── .env                    # Environment variables (not committed)
+
+├── .env                    # Environment variables 
+
 ├── README.md               # This file
+
 └── GradioApp/              # Optional Gradio web app code
+
 Dependencies
 Python 3.11+
 
