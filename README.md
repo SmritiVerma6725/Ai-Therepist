@@ -1,4 +1,5 @@
 AI Therapist
+
 AI Therapist is an intelligent mental health chatbot designed to provide compassionate and thoughtful responses to users seeking emotional support. It leverages advanced language models and vector databases to understand and answer user queries based on mental health-related documents.
 
 Features
