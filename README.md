@@ -21,6 +21,7 @@ Example:
 
 text
 Human: I feel anxious lately.
+
 Chatbot: I'm sorry to hear that. Would you like to talk about what's causing your anxiety?
 Running with Gradio Web Interface
 You can launch a web UI using Gradio for easier interaction (code snippet included in the project).
