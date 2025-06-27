@@ -17,46 +17,6 @@ Optional Gradio-based web interface for easy user interaction.
 
 Supports persistent storage of vector database for faster startup.
 
-Installation
-Clone the repository:
-
-bash
-git clone https://github.com/yourusername/AI-Therapist.git
-cd AI-Therapist
-Create and activate a Python virtual environment (recommended):
-
-bash
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install the required packages:
-
-bash
-pip install -r requirements.txt
-Alternatively, install key dependencies manually:
-
-bash
-pip install langchain langchain_groq langchain_community chromadb sentence-transformers pypdf gradio python-dotenv
-Setup
-Obtain a Groq API key by registering at Groq's platform.
-
-Create a .env file in the project root with the following content:
-
-text
-GROQ_API_KEY=your_groq_api_key_here
-Prepare your mental health PDF documents and place them in the Data folder inside the project directory.
-
-Usage
-Running the Chatbot (Command Line)
-Run the main script:
-
-bash
-python main.py
-The chatbot will initialize the model and vector database.
-
-Type your queries to interact.
-
-Type exit to quit.
-
 Example:
 
 text
